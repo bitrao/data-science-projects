@@ -32,19 +32,19 @@ My personal data science projects repository. This collection showcases various 
 
 ### Machine Learning Projects
 #### Regression Analysis
-- **[Appliance Energy Usage Prediction](https://github.com/bitrao/data-science-projects/tree/main/lead-scoring)** - Time series analysis on energy usage of a household and make prediction of future usage (***Linear Regression, RandomForest and LightGBM***)
+- **[Appliance Energy Usage Prediction](https://github.com/bitrao/data-science-projects/tree/main/lead-scoring)** - Time series analysis on energy usage of a household and make prediction of future usage (***Linear Regression, RandomForest and LightGBM***).
 
 #### Classification
-- **[Lead Scoring Model](https://github.com/bitrao/data-science-projects/tree/main/lead-scoring)** - Customer lead scoring using machine learning algorithms to calculate the probability of leads conversion (**XGBoost**)
-- **[Customer Churn Prediction](https://github.com/bitrao/Iranian-Telecom-Customer-Churn-Prediction)** - Predicting customer churn with ***Logistic Regression and K-Nearest Neighbors***
-- **[Sepsis Development Prediction](https://github.com/bitrao/Sepsis-Development-During-ICU-Period-Prediction)** - Predict Sepsis Development for COVID-19 Detection ***Logistic Regression and K-Nearest Neighbors***
+- **[Lead Scoring Model](https://github.com/bitrao/data-science-projects/tree/main/lead-scoring)** - Customer lead scoring using machine learning algorithms to calculate the probability of leads conversion. (**XGBoost**)
+- **[Customer Churn Prediction](https://github.com/bitrao/Iranian-Telecom-Customer-Churn-Prediction)** - Predict customer churn. (***Logistic Regression and K-Nearest Neighbors***).
+- **[Sepsis Development Prediction](https://github.com/bitrao/Sepsis-Development-During-ICU-Period-Prediction)** - Predict Sepsis Development for COVID-19 Detection. (***Logistic Regression and K-Nearest Neighbors***)
 ##### NLP
-- **[Job-Advertisement-Classification](https://github.com/bitrao/Job-Advertisement-Classification)** - Classify jobs based on the advertisement description using classical feature representations (***tf-idf, word2vec***) and models ( ***Logisctic Regression and SVM***)
-- **[Movie-Reviews-Sentiment-Analysis](https://github.com/bitrao/Movie-Reviews-Sentiment-Analysis)** - Study multiple Bag-of-words model and sentiment analysis on movie reviews using the classical vectorization methods and models.(***Logistic Regression***)
+- **[Job-Advertisement-Classification](https://github.com/bitrao/Job-Advertisement-Classification)** - Classify jobs based on the advertisement description using classical feature representations (***tf-idf, word2vec***) and models (***Logistic Regression and SVM***)
+- **[Movie-Reviews-Sentiment-Analysis](https://github.com/bitrao/Movie-Reviews-Sentiment-Analysis)** - Study multiple Bag-of-words model and sentiment analysis on movie reviews using the classical vectorization methods and models. (***Logistic Regression***)
 
 ### Deep Learning Projects
 #### NLP
-- **[Vietnamese Hate Speech Detector](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Fine tune ***BERT*** models with collected and re-labelled data to detect hate speech in Vietnamese.
+- **[Vietnamese Hate Speech Detector](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Fine tune ***BERT*** models with collected and relabelled data to detect hate speech in Vietnamese.
 - **[BERT Tweet Stance Classification](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Apply ***BERT*** models on tweet stance classification.
 #### Computer Vision
 - **[Facial Emotion Recognition](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Build ***CNN models*** that recognize both facial emotion and expression.
