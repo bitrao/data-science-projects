@@ -45,7 +45,7 @@ My personal data science projects repository. This collection showcases various 
 ### Deep Learning Projects
 #### NLP
 - **[Vietnamese Hate Speech Detector](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Fine tune ***BERT*** models with collected and relabelled data to detect hate speech in Vietnamese.
-- **[BERT Tweet Stance Classification](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Apply ***BERT*** models on tweet stance classification.
+- **[BERT Tweet Stance Classification](https://github.com/bitrao/BERT-tweet-stance-classification)** - Apply ***BERT*** models on tweet stance classification.
 #### Computer Vision
-- **[Facial Emotion Recognition](https://github.com/bitrao/vietnamese-hate-speech-detection)** - Build ***CNN models*** that recognize both facial emotion and expression.
+- **[Facial Emotion Recognition](https://github.com/bitrao/facial-emotion-expression-recognition)** - Build ***CNN models*** that recognize both facial emotion and expression.
 
