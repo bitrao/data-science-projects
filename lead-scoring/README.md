@@ -196,23 +196,3 @@ joblib
 optuna
 mlflow
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📝 License
-
-This project is for educational and research purposes.
-
-## 📞 Contact
-
-For questions or support, please open an issue in the repository.
-
----
-
-**Note**: This project demonstrates best practices in machine learning development including proper data preprocessing, model optimization, experiment tracking, and production-ready model deployment. 
