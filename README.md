@@ -26,6 +26,7 @@ My personal data science projects repository. This collection showcases various 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 
 ## 📊 Projects
@@ -48,4 +49,7 @@ My personal data science projects repository. This collection showcases various 
 - **[BERT Tweet Stance Classification](https://github.com/bitrao/BERT-tweet-stance-classification)** - Apply ***BERT*** models on tweet stance classification.
 #### Computer Vision
 - **[Facial Emotion Recognition](https://github.com/bitrao/facial-emotion-expression-recognition)** - Build ***CNN models*** that recognize both facial emotion and expression.
+
+### Recommendation System
+- **[Fashion ECommerce Recsys](https://github.com/bitrao/fashion-ecommerce-recsys)** - Build a simple ***content-based Recommendation System*** with UI and can provide online recommendations on *H&M 2022 Kaggle Dataset*. 
 
